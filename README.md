@@ -126,5 +126,3 @@ Mental-Health-in-Tech-EDA/
 ├── README.md
 └── requirements.txt
 ```
-
----
